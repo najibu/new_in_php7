@@ -12,4 +12,6 @@ Often, you'll find yourself catching and responding to multiple exception types 
 ## 4 Iterables
 New to PHP 7.1 is a new `iterable` pseudo-type. If you're currently type-hinting `array` all over the place, think about it: would you be that upset if the user instead passed an object that can be iterated over? Of course not. This new pseudo-type solves that!
 
+## 5 Spaceships operator
+`<=>` `-1 0 1` Used for determing the proper sort order.
 
